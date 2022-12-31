@@ -3,7 +3,7 @@
 
 
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;ITI+9 Month+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=EDF723&center=true&vCenter=true&width=435&lines=Self-taught+Back-End+Developer;ITI+9+month+scholarship+student;Active+Learner%2FResearcher)](https://git.io/typing-svg)
 
 
 
